@@ -1,0 +1,8 @@
+{
+  "name": "Microbes & Skeleton Quiz",
+  "description": "A 50-question multiple choice quiz covering microbes and the human skeleton system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
